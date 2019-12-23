@@ -5,7 +5,7 @@
 
 - 絶対にコピペはしないこと！！
 
-![kessyoubantyan](a)  
+![kessyoubantyan](https://github.com/Yoshiki-Yamada/wicket-practice/blob/master/image01.jpg)  
 
 
 
