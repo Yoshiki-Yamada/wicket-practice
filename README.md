@@ -6,6 +6,7 @@
 - 絶対にコピペはしないこと！！
 
 ![kessyoubantyan](https://github.com/Yoshiki-Yamada/wicket-practice/blob/master/image01.jpg)  
+https://www.animatetimes.com/news/details.php?id=1532660336
 
 
 
