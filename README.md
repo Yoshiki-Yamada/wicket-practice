@@ -23,17 +23,6 @@ https://www.animatetimes.com/news/details.php?id=1532660336
 |||
 
 
-## SolomonとMichaelについて
-ホワイトボードにて説明（ザックり）
-
-- Bean
-- DAO
-- Service
-- Repository
-- DTO
-- Panel
-- Util
-
 ## Apache Wicket
  
  コンポーネント指向の復習
